@@ -1,1 +1,1 @@
-# PDF-Interaction-with-LangChain-and-ChatGPT
+# PDF-Interaction-with-LangChain-and-Llama2
