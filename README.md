@@ -1,4 +1,5 @@
 # PDF-Interaction-with-LangChain-and-Llama2 🦜🦙
+![RAG](https://github.com/Niez-Gharbi/PDF-Interaction-with-LangChain-and-Llama2/assets/57814219/f0126bb9-2077-4f7f-9569-84cd0827fab2)
 
 Welcome to the PDF Interaction ChatBot repository! This is an example of Retrieval Augmented Generation, the Chatbot can answer questions related to the PDF files provided, that will be loaded and fed as knowledge to the chatbot.
 
